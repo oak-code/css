@@ -1,0 +1,19 @@
+ 
+	body{ text-align:center} 
+	.box {  
+	
+		max-width: 300px;
+		margin: 0 auto;  
+		}
+	.box1 {
+		 width: 0;
+		
+		margin:1%;
+		padding :15%;
+		float: left; 
+		background-color: yellow;
+	
+		}
+
+	
+	
